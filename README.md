@@ -31,9 +31,13 @@ Bamazon is a command line storefront app. To best utilize as a customer or manag
 
 ## Videos of Functionality 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HrEV0kmzvcc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=HrEV0kmzvcc
+" target="_blank"><img src="http://img.youtube.com/vi/HrEV0kmzvcc/0.jpg" 
+alt="Bamazon Customer" width="240" height="180" border="10" /></a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wm0xDf39csU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=wm0xDf39csU
+" target="_blank"><img src="http://img.youtube.com/vi/wm0xDf39csU/0.jpg" 
+alt="Bamazon Manager" width="240" height="180" border="10" /></a>
 
 ## Requirements to Run
 
